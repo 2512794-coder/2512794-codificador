@@ -1,6 +1,6 @@
 # 2512794-codificador
 <p align="center">
-  <img src="[(https://github.com/2512794-coder/2512794-codificador/blob/7437dc304fa9c5d5766a328601c947621c06a037/gemini.png)](https://github.com/2512794-coder/2512794-codificador/blob/8706fbb42f31b33a67f31817acbfcd4fa8ea59a9/gemini.png)"/>
+  <img src="https://github.com/2512794-coder/2512794-codificador/blob/d3358b2c704c3a768adf938ce02de3c66d520e6c/gemini.png"/>
 </p>
 
 # 📘 README – Perfil del Estudiante
